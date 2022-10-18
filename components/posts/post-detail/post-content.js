@@ -24,7 +24,6 @@ function PostContent(props) {
             const { node } = paragraph;
             if (node.children[0].type === "image") {
                 const image = node.children[0];
-                debugger
                 return (
                     <div className={classes.image}>
                         <Image 
