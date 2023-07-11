@@ -1,6 +1,5 @@
 # Blog
-As everyone I just wanna learn some new languages and technologies and Next.js was my choice.
-
+Small blog as a part of Next.js & React - The Complete Guide course
 ## Getting Started
 
 First, run the development server:
